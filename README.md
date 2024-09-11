@@ -1,17 +1,17 @@
 ## Hello, I'm Josue
 <a href="https://www.linkedin.com/in/josue-cabrera-ramos-658255321/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
+[Brief Introduction]
 
 I am a current freshmen attending Northen Virginia Community College with profound interest in Engineeringing,and Technology.I'm also dedicated to solve complex problems.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
+[Provide Objective]
 
 My Journey through Community College has lead me to devolpe a passion for Cybersecurity, and I am now eager to transition into this field, specifically aiming to become a Cyber Security Engineer.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+[Provide skills and associated project.]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
